@@ -1,6 +1,7 @@
 #Assignment 5
 num_int = int(input("Input a number: "))    # Do not change this line
 # Fill in the missing code
+#https://github.com/FannarHrafn/T-111-PROG-Assignement-5
 #while loop to add user numbers to list as long as they're not negative
 num_list = []
 while num_int >= 0:
