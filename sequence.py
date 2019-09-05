@@ -1,4 +1,5 @@
 #sequence.py
+#https://github.com/FannarHrafn/T-111-PROG-Assignement-5
 n = int(input("Enter the length of the sequence: ")) # Do not change this line
 count_number = 0
 num1 = 1
